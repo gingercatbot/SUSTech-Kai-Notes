@@ -5,3 +5,5 @@
 I took this course as a general-education-level course in [Harbin Institute of Technology (Shenzhen Campus)](https://www.hitsz.edu.cn/index.html) in Fall 2025 as an "exchange student"([跨校课程互选计划](https://xfhr.utsz.edu.cn/)).
 
 It's a two-credit simple course in music theory, while the professor specifially focused on practical trainning of reading musical score, including both staff notation and numbered musical notation, rhythm exercises and serious music theory including chord.
+
+\btw Recalling it, I could say every Monday's evening was the most wonderful time for me in a week.
